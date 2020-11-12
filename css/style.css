@@ -447,7 +447,7 @@ text-align: left;
     overflow: hidden;
     position: relative;
 }
-#project .project-img::after{
+#project .project-img a::after{
 
     content: '';
     position: absolute; 
